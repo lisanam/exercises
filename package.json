@@ -1,0 +1,19 @@
+{
+  "name": "exercises",
+  "version": "1.0.0",
+  "description": "",
+  "main": "today.js",
+  "scripts": {
+    "start": "node ./today"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lisanam/exercises.git"
+  },
+  "author": "Lisa Nam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lisanam/exercises/issues"
+  },
+  "homepage": "https://github.com/lisanam/exercises#readme"
+}
